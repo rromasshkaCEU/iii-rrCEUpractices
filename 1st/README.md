@@ -1,5 +1,5 @@
 # iii-rrCEUpractices
-# Practice 1 by Roman Mixhkovskyi
+# Practice 1 by Roman Michkovskyi
 
 
 
@@ -18,35 +18,35 @@ It is a program that organises the interaction between the user and the code. It
 ### HOW TO START THIS PROJECT:
 
 1. Clone the repository:
-    bash
-    git clone https://github.com/rromasshkaCEU/iii-rrCEUpractices
-    
+    ```bash
+    git clone https://github.com/rromasshkaCEU/iii-rrCEUpractices)
+    ```
 
 2. Navigate to the project directory:
-    bash
+    ```bash
     cd 1st
-    
+    ```
 
-3. Compile the Java files into the bin directory using the Makefile:
-    bash
+3. Compile the Java files into the `bin` directory using the Makefile:
+    ```bash
     make compile
-    
+    ```
 
 4. Generate Javadoc documentation:
-    bash
+    ```bash
     make javadoc
-    
+    ```
 
 ## Usage
 
 To run the application from the compiled classes:
 
-bash
+```bash
 make run
-
+```
 
 ## License
 This project is licensed under the Apache License 2.0. See the License file for details.
 
-Support:
+**Support:**
 - roman.michkovskyi@usp.ceu.es
