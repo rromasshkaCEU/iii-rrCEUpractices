@@ -24,7 +24,7 @@ It is a program that organises the interaction between the user and the code. It
 
 2. Navigate to the project directory:
     ```bash
-    cd iii-rrCEUpractices/newpractice2
+    cd iii-rrCEUpractices/newpractice3
     ```
 
 3. Compile using Maven:
