@@ -21,7 +21,7 @@ It is a program that organises the interaction between the user and the code.Its
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rromasshkaCEU/iii-rrCEUpractices)
+    git clone https://github.com/rromasshkaCEU/iii-rrCEUpractices
     ```
 
 2. Navigate to the project directory:
